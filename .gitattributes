@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 FPSGame.exe filter=lfs diff=lfs merge=lfs -text
+FPSGame-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
