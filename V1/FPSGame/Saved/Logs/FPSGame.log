@@ -1,0 +1,722 @@
+﻿Log file open, 05/16/20 22:52:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../FPSGame/Content/Paks/FPSGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FPSGame/Content/Paks/FPSGame-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.036133
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:43:36
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/91979/Documents/Unreal Projects/StealthGame/WindowsNoEditor/FPSGame/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.17-05.52.53:955][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.05.17-05.52.53:955][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.17-05.52.53:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.17-05.52.53:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.17-05.52.53:958][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.17-05.52.53:958][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.17-05.52.53:959][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.17-05.52.53:959][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.05.17-05.52.53:959][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.05.17-05.52.53:961][  0]LogHAL: Display: Platform has ~ 16 GB [17022177280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.17-05.52.53:961][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.05.17-05.52.53:961][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.17-05.52.53:961][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.17-05.52.53:961][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.17-05.52.53:962][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../FPSGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.17-05.52.53:963][  0]LogInit: Computer: LAPTOP-EVCOOTP3
+[2020.05.17-05.52.53:963][  0]LogInit: User: 91979
+[2020.05.17-05.52.53:963][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.17-05.52.53:963][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.17-05.52.53:963][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.17-05.52.53:963][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.05.17-05.52.53:963][  0]LogMemory: Process Physical Memory: 55.88 MB used, 55.88 MB peak
+[2020.05.17-05.52.53:963][  0]LogMemory: Process Virtual Memory: 69.36 MB used, 69.36 MB peak
+[2020.05.17-05.52.53:963][  0]LogMemory: Physical Memory: 7118.78 MB used,  9114.83 MB free, 16233.61 MB total
+[2020.05.17-05.52.53:963][  0]LogMemory: Virtual Memory: 4460.01 MB used,  134213264.00 MB free, 134217728.00 MB total
+[2020.05.17-05.52.54:003][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.17-05.52.55:146][  0]LogInit: Using OS detected language (en-US).
+[2020.05.17-05.52.55:146][  0]LogInit: Using OS detected locale (en-CA).
+[2020.05.17-05.52.55:147][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.17-05.52.55:172][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.17-05.52.55:172][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.17-05.52.55:187][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.17-05.52.55:187][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.17-05.52.55:277][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.05.17-05.52.55:277][  0]LogD3D11RHI:       5991/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.17-05.52.55:305][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.17-05.52.55:305][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.17-05.52.55:308][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.17-05.52.55:308][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.17-05.52.55:308][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.17-05.52.55:329][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.17-05.52.55:329][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.17-05.52.55:329][  0]LogWindows: EnumDisplayDevices:
+[2020.05.17-05.52.55:329][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.17-05.52.55:330][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.17-05.52.55:330][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.17-05.52.55:330][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.05.17-05.52.55:331][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.05.17-05.52.55:331][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.05.17-05.52.55:332][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.05.17-05.52.55:332][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.17-05.52.55:332][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.05.17-05.52.55:332][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.17-05.52.55:332][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.17-05.52.55:332][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.05.17-05.52.55:406][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.17-05.52.55:441][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.17-05.52.55:458][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.17-05.52.55:460][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.17-05.52.55:461][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.17-05.52.55:520][  0]LogInit: Using OS detected language (en-US).
+[2020.05.17-05.52.55:520][  0]LogInit: Using OS detected locale (en-CA).
+[2020.05.17-05.52.55:520][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.05.17-05.52.55:520][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2020.05.17-05.52.55:520][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.05.17-05.52.55:520][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.05.17-05.52.55:520][  0]LogTextLocalizationManager: Compacting localization data took   0.45ms
+[2020.05.17-05.52.55:523][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.05.17-05.52.55:619][  0]LogStreaming: Display: Flushing async loaders.
+[2020.05.17-05.52.55:619][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.000039 seconds
+[2020.05.17-05.52.55:619][  0]LogPakFile: New pak file ../../../FPSGame/Content/Paks/FPSGame-WindowsNoEditor.pak added to pak precacher.
+[2020.05.17-05.52.55:622][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.05.17-05.52.55:630][  0]LogNetVersion: FPSGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2384151453)
+[2020.05.17-05.52.56:459][  0]LogMoviePlayer: Initializing movie player
+[2020.05.17-05.52.56:459][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.17-05.52.56:460][  0]LogOcInput: OculusInput pre-init called
+[2020.05.17-05.52.56:464][  0]LogUObjectArray: 39814 objects as part of root set at end of initial load.
+[2020.05.17-05.52.56:464][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.05.17-05.52.56:464][  0]LogUObjectAllocator: 6045680 out of 0 bytes used by permanent object pool.
+[2020.05.17-05.52.56:464][  0]LogUObjectArray: CloseDisregardForGC: 39814/39814 objects in disregard for GC pool
+[2020.05.17-05.52.56:466][  0]LogEngine: Initializing Engine...
+[2020.05.17-05.52.56:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.17-05.52.56:468][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.17-05.52.56:542][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.17-05.52.56:843][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.17-05.52.56:850][  0]LogInit: XAudio2 using 'Speakers (3- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.17-05.52.57:039][  0]LogInit: FAudioDevice initialized.
+[2020.05.17-05.52.57:040][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.17-05.52.57:040][  0]LogInit: Texture streaming: Enabled
+[2020.05.17-05.52.57:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-05.52.57:048][  0]LogInit: Display: Game Engine Initialized.
+[2020.05.17-05.52.57:049][  0]LogInit: Display: Starting Game.
+[2020.05.17-05.52.57:049][  0]LogNet: Browse: /Game/Maps/FirstPersonExampleMap?Name=Player
+[2020.05.17-05.52.57:049][  0]LogLoad: LoadMap: /Game/Maps/FirstPersonExampleMap?Name=Player
+[2020.05.17-05.52.57:049][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.05.17-05.52.57:050][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-05.52.57:057][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=3, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=59, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=311, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=339, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=131, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=231, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=235, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=239, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=283, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=303, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=371, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=383, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=639, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=655, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=7, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=11, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=15, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=19, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=23, NumVertices=0
+[2020.05.17-05.52.57:110][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=27, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=31, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=35, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=39, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=203, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=351, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=171, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=315, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=175, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=183, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=187, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=195, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=199, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=319, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=215, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=219, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=223, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=227, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=347, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=379, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=391, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=43, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=47, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=63, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=67, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=71, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=75, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=503, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=535, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=83, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=507, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=95, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=99, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=107, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=443, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=447, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=451, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=511, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=515, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=115, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=119, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=127, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=155, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=471, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=475, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=479, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=543, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=547, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=135, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=139, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=143, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=147, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=151, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=167, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=395, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=399, NumVertices=0
+[2020.05.17-05.52.57:111][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=403, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=423, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=431, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=495, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=539, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=567, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=571, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=583, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=587, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=51, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=55, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=591, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=179, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=191, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=207, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=595, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=211, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=579, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=407, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=411, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=415, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=419, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=427, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=435, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=439, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=455, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=459, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=463, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=527, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=531, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=467, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=483, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=487, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=491, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=559, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=563, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=499, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=519, NumVertices=0
+[2020.05.17-05.52.57:112][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=523, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=551, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=555, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=575, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=79, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=659, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=663, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=667, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=87, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=343, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=91, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=103, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=327, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=331, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=111, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=123, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=359, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=363, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=159, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=163, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=599, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=603, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=607, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=611, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=615, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=619, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=623, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=627, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=631, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=635, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=643, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=647, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=651, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=243, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=247, NumVertices=0
+[2020.05.17-05.52.57:113][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=251, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=255, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=259, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=263, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=267, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=271, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=275, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=279, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=323, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=287, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=291, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=295, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=299, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=355, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=307, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=335, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=367, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=375, NumVertices=0
+[2020.05.17-05.52.57:114][  0]LogModelComponent: Model /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=387, NumVertices=0
+[2020.05.17-05.52.57:117][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.05.17-05.52.57:117][  0]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.17-05.52.57:121][  0]LogWorld: Bringing World /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.05.16-22.52.57
+[2020.05.17-05.52.57:123][  0]LogWorld: Bringing up level for play took: 0.005291
+[2020.05.17-05.52.57:125][  0]LogUMG: Display: Widget Class WBP_ObjectiveInfo_C - Loaded Fast Template.
+[2020.05.17-05.52.57:126][  0]LogUMG: Display: Widget Class WBP_GuardState_C - Loaded Fast Template.
+[2020.05.17-05.52.57:126][  0]LogLoad: Took 0.077156 seconds to LoadMap(/Game/Maps/FirstPersonExampleMap)
+[2020.05.17-05.52.57:127][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.05.17-05.52.57:138][  0]LogRenderer: Reallocating scene render targets to support 1536x864 Format 10 NumSamples 1 (Frame:1).
+[2020.05.17-05.52.57:138][  0]LogLoad: (Engine Initialization) Total time: 3.55 seconds
+[2020.05.17-05.52.57:188][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.17-05.52.57:196][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2020.05.17-05.52.57:226][  0]LogRenderer: Reallocating scene render targets to support 1536x864 Format 10 NumSamples 1 (Frame:2).
+[2020.05.17-05.52.57:240][  0]LogSlate: Slate font cache was flushed
+[2020.05.17-05.52.57:244][  1]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.05.17-05.53.10:243][807]LogUMG: Display: Widget Class WBP_GameOver_C - Loaded Fast Template.
+[2020.05.17-05.53.14:920][ 97]LogWindowsDesktop: Alt-F4 pressed!
+[2020.05.17-05.53.14:920][ 97]LogSlate: Request Window 'FPSGame (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.05.17-05.53.14:926][ 97]LogSlate: Window 'FPSGame (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.05.17-05.53.14:928][ 97]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.17-05.53.14:934][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-05.53.14:934][ 97]LogEngine: All Windows Closed
+[2020.05.17-05.53.14:934][ 97]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.05.17-05.53.14:976][ 98]LogWorld: BeginTearingDown for /Game/Maps/FirstPersonExampleMap
+[2020.05.17-05.53.14:977][ 98]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-05.53.15:487][ 98]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.17-05.53.15:487][ 98]LogExit: Preparing to exit.
+[2020.05.17-05.53.15:487][ 98]LogMoviePlayer: Shutting down movie player
+[2020.05.17-05.53.15:499][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-05.53.15:502][ 98]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.17-05.53.15:505][ 98]LogExit: Game engine shut down
+[2020.05.17-05.53.15:555][ 98]LogExit: Object subsystem successfully closed.
+[2020.05.17-05.53.15:561][ 98]LogModuleManager: Shutting down and abandoning module AutomationController (214)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module AutomationWorker (212)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module Voice (210)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module AIModule (208)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module GameplayDebugger (207)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module NavigationSystem (205)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (202)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module WebMMedia (200)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module OculusMR (198)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (196)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (194)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (192)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (190)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module CharacterAI (188)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module SessionServices (186)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module LiveCoding (184)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module LevelSequence (182)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (180)
+[2020.05.17-05.53.15:562][ 98]LogModuleManager: Shutting down and abandoning module MovieScene (178)
+[2020.05.17-05.53.15:563][ 98]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (176)
+[2020.05.17-05.53.15:563][ 98]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (174)
+[2020.05.17-05.53.15:564][ 98]LogModuleManager: Shutting down and abandoning module ProfilerService (172)
+[2020.05.17-05.53.15:747][ 98]LogModuleManager: Shutting down and abandoning module TaskGraph (170)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module SteamVRController (168)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (166)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module OculusInput (164)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (162)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module EditableMesh (160)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (158)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module CableComponent (156)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module AudioCapture (154)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (152)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module AppleImageUtils (150)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module AndroidPermission (148)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module MediaCompositing (146)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module ImgMedia (144)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module HTML5Networking (142)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module BackChannel (140)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module AutomationUtils (138)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (136)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module GeometryCache (134)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module VariantManagerContent (132)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module FPSGame (130)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (128)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (124)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module ActorSequence (122)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module UdpMessaging (120)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module TcpMessaging (118)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module FacialAnimation (116)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module SignificanceManager (114)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module AnimationSharing (112)
+[2020.05.17-05.53.15:748][ 98]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (110)
+[2020.05.17-05.53.15:749][ 98]LogModuleManager: Shutting down and abandoning module Paper2D (108)
+[2020.05.17-05.53.15:749][ 98]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (106)
+[2020.05.17-05.53.15:750][ 98]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (104)
+[2020.05.17-05.53.15:750][ 98]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (102)
+[2020.05.17-05.53.15:750][ 98]LogModuleManager: Shutting down and abandoning module PacketHandler (100)
+[2020.05.17-05.53.15:750][ 98]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (98)
+[2020.05.17-05.53.15:750][ 98]LogModuleManager: Shutting down and abandoning module MediaAssets (96)
+[2020.05.17-05.53.15:750][ 98]LogModuleManager: Shutting down and abandoning module Overlay (94)
+[2020.05.17-05.53.15:750][ 98]LogModuleManager: Shutting down and abandoning module UMG (92)
+[2020.05.17-05.53.15:750][ 98]LogModuleManager: Shutting down and abandoning module SlateReflector (90)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module Slate (88)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module MRMesh (86)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module Messaging (84)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (82)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module XAudio2 (80)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module Networking (78)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module Core (76)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module ImageWrapper (72)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module PhysXCooking (68)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (66)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (65)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module SteamVR (62)
+[2020.05.17-05.53.15:751][ 98]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module OculusHMD (60)
+[2020.05.17-05.53.15:751][ 98]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
+[2020.05.17-05.53.15:752][ 98]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (56)
+[2020.05.17-05.53.15:752][ 98]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (52)
+[2020.05.17-05.53.15:753][ 98]LogModuleManager: Shutting down and abandoning module HTTP (47)
+[2020.05.17-05.53.15:787][ 98]LogModuleManager: Shutting down and abandoning module SSL (46)
+[2020.05.17-05.53.15:787][ 98]LogModuleManager: Shutting down and abandoning module WmfMedia (42)
+[2020.05.17-05.53.15:788][ 98]LogModuleManager: Shutting down and abandoning module Media (41)
+[2020.05.17-05.53.15:788][ 98]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.05.17-05.53.15:789][ 98]LogModuleManager: Shutting down and abandoning module AISupportModule (36)
+[2020.05.17-05.53.15:789][ 98]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (34)
+[2020.05.17-05.53.15:789][ 98]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2020.05.17-05.53.15:789][ 98]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.17-05.53.15:789][ 98]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.17-05.53.15:789][ 98]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.17-05.53.15:790][ 98]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.17-05.53.15:791][ 98]LogD3D11RHI: Shutdown
+[2020.05.17-05.53.15:791][ 98]LogD3D11RHI: CleanupD3DDevice
+[2020.05.17-05.53.15:793][ 98]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.17-05.53.15:793][ 98]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.17-05.53.15:793][ 98]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.17-05.53.15:841][ 98]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.17-05.53.15:846][ 98]LogExit: Exiting.
+[2020.05.17-05.53.15:850][ 98]Log file closed, 05/16/20 22:53:15
