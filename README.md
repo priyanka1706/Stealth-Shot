@@ -11,4 +11,4 @@ The aim of this game is to pick up the green loot and take it to the extraction 
 
 <p align="center">
 <img width="800" height="450" src="https://github.com/priyanka1706/Stealth-Shot/blob/master/V1/MissionComplete.png"> </p>
-<p align="center"> Gameplay </p>
+<p align="center"> Mission complete view </p>
