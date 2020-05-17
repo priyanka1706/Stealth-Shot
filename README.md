@@ -1,5 +1,5 @@
 # Stealth Shot
-My version of a FPS multiplayer game built on Unreal Engine 4 during the first half of the course [Unreal Engine 4 Mastery: Create Multiplayer Games with C++](https://www.udemy.com/course/unrealengine-cpp/) by Tom Looman.
+My version of a multiplayer FPS game built on Unreal Engine 4 during the first half of the course [Unreal Engine 4 Mastery: Create Multiplayer Games with C++](https://www.udemy.com/course/unrealengine-cpp/) by Tom Looman.
 The first version in it can be found in the V1 folder. The game supports both one and two player gameplay.
 
 # Game mission
